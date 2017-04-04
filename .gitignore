@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+java9modularity.iml
+out/
+module1/module1.iml
+module1/target
+module2/module2.iml
